@@ -1,5 +1,5 @@
 import "./App.css";
-import AuthDetails from "./components/AuthDetails";
+import AuthDetails from "./components/auth/AuthDetails";
 import SignIn from "./components/auth/SignIn";
 import SignUp from "./components/auth/SignUp";
 
